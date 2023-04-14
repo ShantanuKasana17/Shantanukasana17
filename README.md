@@ -45,3 +45,34 @@
     <img src="https://komarev.com/ghpvc/?username=Pankajkaushik2207">
 </a>
 <a href="https://github.com/ShantanuKasana17?tab=followers"><img src="https://img.shields.io/github/followers/Divijkatyal0406?label=Followers&style=social" alt="GitHub Badge"></a>
+
+  
+<hr>
+<h3 align="center">Visitor Count</h3>
+<a align="center" href="https://profile-counter.glitch.me/{Shantanukasana17}/count.svg">
+  
+  ![VisitorCount](https://profile-counter.glitch.me/{Shantanukasana17}/count.svg)  
+  
+</a>
+
+<hr>
+    
+***
+    
+<h2 align="center">Github Activity📊 !! 😊 </h2>   
+   
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Shantanukasana17&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanukasana17&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
+   </tr> 
+  <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanukasana17&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
+   <tr><td>😀</td></tr>
+</table>
+    
+    
+ <h2 align="center">Productivity Stats📈 !! 😊</h2>
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shantanukasana17theme=monokai"  display=block width=100% height=auto  alt="1" >
+   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Shantanukasana17&bg_color=4b4d81&color=fcfcfc&line=45e8e5&point=78d756&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
