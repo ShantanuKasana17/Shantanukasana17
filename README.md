@@ -4,13 +4,18 @@
 </p>
 <p>I'm a Programmer, I'm a Android Developer, I also like to create projects in React.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-<ul>
-  <li>👋 Hi, I’m Shantanu Kasana</li>
-  <li>❤️ I love to bring ideas to browser.</li>
-  <li>🌱 I’m currently learning Android Development and Data Structures and Alogrithms.</li>
-  <li>💼 I'm a 3rd year student at VIT</li>
-  <li>📫 How to Reach me, shantanukasana017@gmail.com</li>  
-</ul>
+
+# **Hello! I am Shantanu Kasana** 
+
+**ABOUT ME:**
+
+> I am a **Developer** by nature and an **Engineer**  by passion, also an **Tech Enthusiast**.
+
+>  An engineering student with high expertise in **Android and Software Development.**
+
+> The person who loves coding and exploring new things always try to **learns in public and love to work in team.**
+
+> I am presently pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
 
 ## My skills :
 
