@@ -1,12 +1,12 @@
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/ShantanuKasana17">Shantanu Kasana</a>'s Profile 👋</h1>
 </p>
-<p>I'm a Programmer, I'm a Web Developer, I also like to create projects in React.</p>
+<p>I'm a Programmer, I'm a Android Developer, I also like to create projects in React.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m Shantanu Kasana</li>
   <li>❤️ I love to bring ideas to browser.</li>
-  <li>🌱 I’m currently learning Web Development and Data Structures and Alogrithms.</li>
+  <li>🌱 I’m currently learning Android Development and Data Structures and Alogrithms.</li>
   <li>💼 I'm a 3rd year student at VIT</li>
   <li>📫 How to Reach me, shantanukasana017@gmail.com</li>  
 </ul>
