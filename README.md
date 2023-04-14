@@ -38,4 +38,4 @@
 <a href="https://github.com/Pankajkaushik2207/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Pankajkaushik2207">
 </a>
-<a href="https://github.com/Pankajkaushik2207?tab=followers"><img src="https://img.shields.io/github/followers/Divijkatyal0406?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ShantanuKasana17?tab=followers"><img src="https://img.shields.io/github/followers/Divijkatyal0406?label=Followers&style=social" alt="GitHub Badge"></a>
