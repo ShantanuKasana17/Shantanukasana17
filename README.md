@@ -29,7 +29,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/pankaj-kaushik-8640161b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/shantanu-kasana017/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/pankaj"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
