@@ -63,7 +63,7 @@
    
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Shantanukasana17&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ShantanuKasana17&theme=radical&show_icons=true"  display=block width=100% height=auto  alt="1" ></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shantanukasana17&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=100% height=auto  alt="2" ></td>
    </tr> 
   <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shantanukasana17&theme=tokyonight"  display=block width=100% height=auto alt="3" ></td></tr>
