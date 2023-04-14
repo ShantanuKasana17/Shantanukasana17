@@ -1,3 +1,4 @@
+<img align="center" src="Screenshot 2023-04-15 000237.jpg">
 <p align="center">
   <h1 align="center">Welcome to <a href="https://github.com/ShantanuKasana17">Shantanu Kasana</a>'s Profile 👋</h1>
 </p>
